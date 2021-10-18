@@ -2,7 +2,7 @@
 
 ## Now im going to show an example of if statemant
 
-if statement help us to solve problems.
+if statement help us to solve problems. \n
 when we need to compare to states.
 
 ```swift
