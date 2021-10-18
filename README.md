@@ -6,7 +6,7 @@
 if poteto == watermelon {
     print("yey!")
 } else {
-    print("nah")
+    print("nah not equal")
 }
 ```
 
