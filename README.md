@@ -2,6 +2,9 @@
 
 ## Now im going to show an example of if statemant
 
+if statement help us to solve problems.
+when we need to compare to states.
+
 ```swift
 if poteto == watermelon {
     print("yey!")
