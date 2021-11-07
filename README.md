@@ -11,6 +11,12 @@ if poteto == watermelon {
 } else {
     print("nah not equal")
 }
+
+let items = ["poteto", "banana" , "watermelon"]
+
+for i in items {
+    print(i)
+}
 ```
 
 <!-- - 👋 Hi, I’m @xVENOOMx
